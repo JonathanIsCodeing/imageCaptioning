@@ -1,6 +1,7 @@
 # Custom
 out/decoder_e10.pkl
 out/encoder_e10.pkl
+.idea
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
