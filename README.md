@@ -1,4 +1,5 @@
-#Image Captioning
+# Image Captioning
+
 **A final term project for the AI-Project course at Sungkyunkwan University**
 
 Read the project description for insights into the coding process.
